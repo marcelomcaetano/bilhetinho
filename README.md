@@ -22,5 +22,5 @@ Marcelo M. Caetano
 ## Wireframe
 
 - [01_musico_cadastro_login_home_criar.png](./wireframe/01_musico_cadastro_login_home_criar.png)
-- [02_musico_eventos_solicitacoes.png](./wireframe/02_musico_eventos_solicitacoes.png)
-- [03_ouvinte_cadastro_login_home.png](./wireframe/03_ouvinte_cadastro_login_home.png)
+- [02_musico_evento_qrcode_pedidos.png](./wireframe/02_musico_evento_qrcode_pedidos.png)
+- [03_publico_scanner_pedido_confirmacao.png](./wireframe/03_publico_scanner_pedido_confirmacao.png)
