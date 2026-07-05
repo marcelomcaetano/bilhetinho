@@ -52,55 +52,27 @@ Marcelo M. Caetano
 ### Visão do Músico
 
 ```
-Para músicos que se apresentam ao vivo em bares, restaurantes e eventos
-
-Que recebem pedidos de música em bilhetes de papel ilegíveis, perdem pedidos
-  durante o show e não têm controle sobre as solicitações do público
-
-O Bilhetinho
-
-É um aplicativo mobile
-
-Que permite ao músico criar eventos, gerar um QR Code exclusivo e receber
-  pedidos de música de forma digital, organizada e segura, visualizando
-  e gerenciando os pedidos diretamente no seu dispositivo
-
-Diferentemente dos bilhetes de papel entregues por garçons, que se perdem,
-  são ilegíveis e podem conter conteúdo indevido
-
-O nosso produto dá ao músico controle total sobre os pedidos, garantindo
-  que apenas pessoas presentes no evento possam solicitar músicas,
-  organizando os pedidos por ordem de chegada com opção de check
-```
-
-### Visão do Público
-
-```
-Para o público que frequenta bares e eventos com música ao vivo
-
-Que deseja pedir uma música ao músico mas tem dificuldade por depender
-  de papel, caneta e da intermediação do garçom, muitas vezes desistindo
-  por vergonha ou falta de oportunidade
-
-O Bilhetinho
-
-É um aplicativo mobile
-
-Que permite ao público escanear um QR Code no evento e enviar pedidos
-  de música diretamente ao músico, sem necessidade de cadastro,
-  de forma rápida, discreta e digital
-
-Diferentemente do método tradicional de pedir papel e caneta ao garçom
-  e escrever um bilhete físico que pode se perder ou nunca ser entregue
-
-O nosso produto elimina a fricção e o constrangimento, permitindo que
-  qualquer pessoa presente no evento peça sua música favorita com
-  poucos toques na tela do celular
+For :
+    (M) Músicos que se apresentam ao vivo em bares, restaurantes e eventos
+    (P) Pessoas que frequentam bares, restaurantes e eventos com música ao vivo
+whose :
+    (M) Recebem pedidos de música em bilhetes de papel
+    (P) Gostaria de ouvir um música em especial e para isso precisa escrever em um papelzinho para que alguém entregue ao músico
+the : 
+    Bilhetinho
+is a : 
+    aplicativo mobile
+that :
+    Permite a interação entre músico e publico com pedidos de música
+Different from :
+    Da forma tradicional de pedir papel e caneta ao garçom e escrever um bilhetinho físico
+our product :
+    Elimina a perda de tempo, permitindo que qualquer pessoa presente no "evento" possa pedir sua música favorita (com poucos toques na tela do celular) dando ao músico controle total sobre os pedidos.
 ```
 
 ### Visão Resumida
 >
-> **"Conectar público e músico ao vivo de forma digital, substituindo o bilhete de papel por uma experiência moderna e sem fricção."**
+> **"Conectar público e músico ao vivo de forma digital, substituindo o bilhete de papel por uma experiência moderna."**
 
 ---
 
@@ -115,12 +87,10 @@ O nosso produto elimina a fricção e o constrangimento, permitindo que
 
 | DOES (Faz) | DOES NOT DO (Não Faz) |
 |---|---|
-| Permite ao público enviar pedidos de música via QR Code | Não reproduz músicas (não é player) |
+| Permite ao público enviar pedidos de música | Não reproduz músicas (não é player) |
 | Permite ao músico criar e gerenciar eventos | Não faz agendamento/contratação de shows |
-| Gera QR Code para validar presença no evento | Não processa pagamentos (MVP) |
 | Lista eventos ao vivo por geolocalização | Não faz chat/mensagens entre público e músico |
 | Permite ao músico cadastrar playlists | Não gerencia o estabelecimento (bar/restaurante) |
-| Filtra eventos por data, local, músico | Não valida o conteúdo do pedido de música (MVP) |
 
 ---
 
