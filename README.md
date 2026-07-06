@@ -96,8 +96,6 @@ our product :
 
 ## 4. Product Goals (Objetivos do Produto)
 
-> Se você tivesse que resumir o produto em três objetivos de negócio, quais seriam?
-
 ### Conectar público e músico ao vivo
 
 - Permitir que o público envie pedidos de música digitalmente
